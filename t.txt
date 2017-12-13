@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 je modifie t.txt via masterbranch
+=======
+je modifie t.txt
+>>>>>>> newbranch
